@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - Ranjitsingh chauhan
+author - Ranjitsingh pawar
